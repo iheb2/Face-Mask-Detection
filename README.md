@@ -1,10 +1,6 @@
 # Face-Mask-Detection-internship-iNeuron
-## :running: :walking: :dancer: Pose-With-Action
 ![alt text](https://fypidea.com/wp-content/uploads/2020/06/Potterytableware-tiles..png)
 
-![Untitled design (4)](https://cdn.romania-insider.com/cdn/ff/aktSImH-OfcpgkvvcRwBFtSoRtFaVFtyU3mBCjGPw-s/1628000060/public/styles/article_large_image/public/2020-07/face_recognition_mask_by_viktoriia_miroshnikovadreamstime.com_.jpg)
-
-![Untitled design (5)](https://user-images.githubusercontent.com/62059604/99800592-9e6e1e80-2b5a-11eb-8f70-4796dd0ee36a.png)
 
 - This repository represents **" Face mask detection using MobileNetV2 "**.
 - With the help of this project we can detect if a person is wearing a mask or not based on the **Face Detection**.

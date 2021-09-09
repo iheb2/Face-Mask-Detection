@@ -1,21 +1,20 @@
 # Face-Mask-Detection-internship-iNeuron
 ## :running: :walking: :dancer: Pose-With-Action
-![pose_with_action](https://miro.medium.com/max/1280/1*V_D4JtNnlzmaCVk0ueA6sQ.gif)
+![pose_with_action](https://user-images.githubusercontent.com/62059604/99776776-5db0de00-2b37-11eb-97e7-b39f53f2d703.gif)
 
-![Untitled design (4)](https://miro.medium.com/max/1280/1*V_D4JtNnlzmaCVk0ueA6sQ.gif)
+![Untitled design (4)](https://user-images.githubusercontent.com/62059604/99800421-5818bf80-2b5a-11eb-83ad-c0fe6a2d48be.png)
 
-![Untitled design (5)](https://miro.medium.com/max/1280/1*V_D4JtNnlzmaCVk0ueA6sQ.gif)
+![Untitled design (5)](https://user-images.githubusercontent.com/62059604/99800592-9e6e1e80-2b5a-11eb-8f70-4796dd0ee36a.png)
 
-- This repository represents **" Action Recognition Using Alphapose "**.
-- With the help of this project we can detect the human Actions/Activities based on the **Human Pose**.
+- This repository represents **" Face mask detection using MobileNetV2 "**.
+- With the help of this project we can detect if a pearson is wearing a mask or not based on the **Face Detection**.
   
 ## 📝 Description
-- This implemantation is based on official **Alphapose** repository https://github.com/MVIG-SJTU/AlphaPose 
-- In this project we have used **Alphapose** and **XGBOOST** for activity recognition.
+- In this project we have used **MobileNetV2** and **Face Detection model ** for mask detection .
 
 ## ⏳ Dataset
-- Download the dataset for custom training
-- https://drive.google.com/drive/folders/1CFxvuigTzbnRXUojFeCRozxjUbYiQ8RM?usp=sharing 
+- Download the dataset for custom training and place those two folders  in a folder named **"dataset"**
+- https://drive.google.com/drive/folders/1WCxe1EuxLo6qyGVpupcEMTgN83xpgHM_ 
 
 ## 🏽‍ Download Object Detection Model
 - Download the object detection model manually : **yolov3-spp.weights** file from following Drive Link

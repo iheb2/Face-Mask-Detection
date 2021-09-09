@@ -1,6 +1,6 @@
 # Face-Mask-Detection-internship-iNeuron
 ## :running: :walking: :dancer: Pose-With-Action
-![alt text](https://miro.medium.com/max/1280/1*V_D4JtNnlzmaCVk0ueA6sQ.gif)
+![alt text](https://fypidea.com/wp-content/uploads/2020/06/Potterytableware-tiles..png)
 
 ![Untitled design (4)](https://cdn.romania-insider.com/cdn/ff/aktSImH-OfcpgkvvcRwBFtSoRtFaVFtyU3mBCjGPw-s/1628000060/public/styles/article_large_image/public/2020-07/face_recognition_mask_by_viktoriia_miroshnikovadreamstime.com_.jpg)
 

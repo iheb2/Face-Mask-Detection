@@ -2,7 +2,7 @@
 ## :running: :walking: :dancer: Pose-With-Action
 ![alt text](https://miro.medium.com/max/1280/1*V_D4JtNnlzmaCVk0ueA6sQ.gif)
 
-![Untitled design (4)](https://user-images.githubusercontent.com/62059604/99800421-5818bf80-2b5a-11eb-83ad-c0fe6a2d48be.png)
+![Untitled design (4)](https://cdn.romania-insider.com/cdn/ff/aktSImH-OfcpgkvvcRwBFtSoRtFaVFtyU3mBCjGPw-s/1628000060/public/styles/article_large_image/public/2020-07/face_recognition_mask_by_viktoriia_miroshnikovadreamstime.com_.jpg)
 
 ![Untitled design (5)](https://user-images.githubusercontent.com/62059604/99800592-9e6e1e80-2b5a-11eb-8f70-4796dd0ee36a.png)
 

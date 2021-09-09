@@ -7,39 +7,26 @@
 ![Untitled design (5)](https://user-images.githubusercontent.com/62059604/99800592-9e6e1e80-2b5a-11eb-8f70-4796dd0ee36a.png)
 
 - This repository represents **" Face mask detection using MobileNetV2 "**.
-- With the help of this project we can detect if a pearson is wearing a mask or not based on the **Face Detection**.
+- With the help of this project we can detect if a person is wearing a mask or not based on the **Face Detection**.
   
 ## 📝 Description
-- In this project we have used **MobileNetV2** and **Face Detection model ** for mask detection .
+- In this project we have used **MobileNetV2** and **Face Detection model** for mask detection .
 
 ## ⏳ Dataset
 - Download the dataset for custom training and place those two folders  in a folder named **"dataset"**
 - https://drive.google.com/drive/folders/1WCxe1EuxLo6qyGVpupcEMTgN83xpgHM_ 
 
-## 🏽‍ Download Object Detection Model
-- Download the object detection model manually : **yolov3-spp.weights** file from following Drive Link
-- https://drive.google.com/file/d/1h2g_wQ270_pckpRCHJb9K78uDf-2PsPd/view?usp=sharing
-- Download the weight file and Place it into **" detector/yolo/data/ "** folder.
-
-##  🏽‍ For Pose Tracking, Download the object tracking model
-- For pose tracking, download the object tracking model manually: **" JDE-1088x608-uncertainty "** from following Drive Link 
-- https://drive.google.com/file/d/1oeK1aj9t7pTi1u70nSIwx0qNVWvEvRrf/view?usp=sharing
-- Download the file and Place it into **" detector/tracker/data/ ".** folder.
-
-## 🏽‍ Download Fast.res50.pt file
-- Download the **" fast.res50.pth "** file from following Drive Link 
-- https://drive.google.com/file/d/1WrvycZnVWwltSa6cjeTznEFOyNAwHEZu/view?usp=sharing
-- Download the file and Place it into **" pretrained_models/ ".** folder.
-
 ## :desktop_computer:	Installation
 
-### :hammer_and_wrench: Requirements
-* Python 3.5+
-* Cython
-* PyTorch 1.1+
-* torchvision 0.3.0+
-* Linux
-* GCC<6.0, check https://github.com/facebookresearch/maskrcnn-benchmark/issues/25
+### :Requirements
+* Python 3.6+
+* tensorflow>=1.15.2
+* keras==2.3.1
+* imutils==0.5.3
+* numpy==1.18.2
+* opencv-python==4.2.0.*
+* matplotlib==3.2.1
+* scipy==1.4.1
 
 ## :gear: Setup
 1. Install PyTorch :-

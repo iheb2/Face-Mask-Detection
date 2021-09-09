@@ -38,35 +38,9 @@ $ pip install -r requirements.txt
 
 ```
 ## 🎯 Inference demo
-1. Testing with **Images** ( Put test images in **AlphaPose/examples/demo/** )  :-
+ Testing in  **Real time ** with the pc camera   :-
 ```bash
-$ python scripts/demo_inference.py --cfg configs/coco/resnet/256x192_res50_lr1e-3_1x.yaml --checkpoint pretrained_models/fast_res50_256x192.pth --indir examples/demo/ --save_img
+$ python detect_mask_video.py
 
 ```
-2. Testing with **Video** ( Put test video in **AlphaPose/examples/demo/** )  :-
-```bash
-$ python scripts/demo_inference.py --cfg configs/coco/resnet/256x192_res50_lr1e-3_1x.yaml --checkpoint pretrained_models/fast_res50_256x192.pth --video examples/demo/3.mp4 --outdir examples/res1 --save_video --gpus 0
-
-```
-
-
-### :book: Please Go through [Pose_With_Action_HLD2.docx](https://github.com/iNeuron-ai/Pose-with-Action/blob/main/doc/Pose_With_Action_HLD2.docx) for more info.
-
-
-## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> 
-- Akshay Kumar Prasad	
-- Akshay Namdev Kadam	
-- Arjun K	
-- ATUL KUMAR	
-- Deepak Kumar Behera	
-- Jerryl Davis	
-- Kancharla Bharath Kumar	
-- Karthik P	
-- Madhavi Patel	
-- Mukesh	
-- Oinam Bhobendra	
-- pamita singh kandari	
-- Sameer sudhir Deshmukh	
-- Sasidharan M	
-- shrinivas kandlikar
 

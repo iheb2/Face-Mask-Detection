@@ -28,39 +28,13 @@
 * matplotlib==3.2.1
 * scipy==1.4.1
 
-## :gear: Setup
-1. Install PyTorch :-
+## : Setup the environment
+1. Create a new virtual environment 
+2. Activate the new environment
+3. Donwlnload the file requirement.txt  
+4. Install the requirement 
 ```bash
-$ pip3 install torch==1.1.0 torchvision==0.3.0
-
-```
-2. Install :-
-```bash
-$ export PATH=/usr/local/cuda/bin/:$PATH
-
-```
-```bash
-$ export LD_LIBRARY_PATH=/usr/local/cuda/lib64/:$LD_LIBRARY_PATH
-
-```
-```bash
-$ pip install cython
-
-```
-```bash
-$ sudo apt-get install libyaml-dev
-
-```
-```bash
-$ python setup.py build develop --user
-
-```
-```bash
-$ python -m pip install Pillow==6.2.1
-
-```
-```bash
-$ pip install -U PyYAML
+$ pip install -r requirements.txt 
 
 ```
 ## 🎯 Inference demo

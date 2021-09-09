@@ -1,10 +1,10 @@
 # Face-Mask-Detection-internship-iNeuron
 ## :running: :walking: :dancer: Pose-With-Action
-![pose_with_action](https://user-images.githubusercontent.com/62059604/99776776-5db0de00-2b37-11eb-97e7-b39f53f2d703.gif)
+![pose_with_action](https://miro.medium.com/max/1280/1*V_D4JtNnlzmaCVk0ueA6sQ.gif)
 
 ![Untitled design (4)](https://miro.medium.com/max/1280/1*V_D4JtNnlzmaCVk0ueA6sQ.gif)
 
-![Untitled design (5)](https://user-images.githubusercontent.com/62059604/99800592-9e6e1e80-2b5a-11eb-8f70-4796dd0ee36a.png)
+![Untitled design (5)](https://miro.medium.com/max/1280/1*V_D4JtNnlzmaCVk0ueA6sQ.gif)
 
 - This repository represents **" Action Recognition Using Alphapose "**.
 - With the help of this project we can detect the human Actions/Activities based on the **Human Pose**.

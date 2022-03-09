@@ -12,6 +12,10 @@
 - For detailed architectures of the model You can check the LDD,HDD and the architecture Reports below 
 ![alt text](https://raw.githubusercontent.com/iheb2/Face-Mask-Detection-internship-iNeuron/master/pr.png)
 
+## 📝 Training Loss and Accuracy
+![alt text](https://raw.githubusercontent.com/iheb2/Face-Mask-Detection-internship-iNeuron/master/plot.png)
+
+
 ## ⏳ Dataset
 - Download the dataset for custom training and place those two folders  in a folder named **"dataset"**
 - https://drive.google.com/drive/folders/1WCxe1EuxLo6qyGVpupcEMTgN83xpgHM_ 

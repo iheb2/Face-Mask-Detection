@@ -8,6 +8,10 @@
 ## 📝 Description
 - In this project we have used **MobileNetV2** and **Face Detection model** for mask detection .
 
+## 📝 Architectures 
+- For detailed architectures of the model You can check the LDD,HDD and the architecture Reports below 
+![alt text](https://raw.githubusercontent.com/iheb2/Face-Mask-Detection-internship-iNeuron/master/pr.png)
+
 ## ⏳ Dataset
 - Download the dataset for custom training and place those two folders  in a folder named **"dataset"**
 - https://drive.google.com/drive/folders/1WCxe1EuxLo6qyGVpupcEMTgN83xpgHM_ 

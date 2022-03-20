@@ -8,7 +8,7 @@
 ## 📝 Description
 - In this project we have used **MobileNetV2** and **Face Detection model** for mask detection .
 
-## 📝 Phases and individual steps for building the face mask detector 
+## 📝 Phases and separate steps for building the face mask detector 
 - For detailed architectures of the model You can check the LDD,HDD and the architecture Reports below 
 
 ![alt text](https://raw.githubusercontent.com/iheb2/Face-Mask-Detection-internship-iNeuron/master/pr.png)
